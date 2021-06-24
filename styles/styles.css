@@ -33,3 +33,13 @@ footer {
     background-color: #FAF0EA;
     padding: 10px;
 }
+
+#horse, #horse-bottom {
+    height: 400px;
+    width: 400px;
+
+}
+
+.hide {
+    display: none;
+}
